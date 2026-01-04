@@ -1,1 +1,1 @@
-rootProject.name = "$deVersion"
+rootProject.name = "$deProjectName"
