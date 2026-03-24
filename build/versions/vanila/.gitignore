@@ -1,0 +1,32 @@
+# ==================== #
+# By: Lmao stupid Cion #
+# ==================== #
+
+# <= Main =>
+.env
+*.iml
+*.iws
+.zed
+.idea
+
+# <= Gradle =>
+.gradle
+build
+gradle
+gradlew
+gradlew.bat
+
+# <= Tekila =>
+tekila.py
+tekila.txt
+tekila.progress.txt
+
+# <= DMCAted code =>
+src/main/java/net/minecraft
+
+# <= Maven =>
+target/
+
+#   >> Contain
+!.gitattributes
+!gradle/wrapper/gradle-wrapper.properties
