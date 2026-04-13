@@ -32,6 +32,7 @@ dependencies {
     implementation("net.java.jinput:jinput:2.0.5")
     implementation("net.java.jutils:jutils:1.0.0")
     implementation("com.google.guava:guava:14.0.1")
+    implementation("org.bouncycastle:bcprov-jdk15on:1.47")
 }
 
 tasks.withType<JavaCompile> {
